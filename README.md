@@ -1,10 +1,12 @@
 <h1 align="center"> Mob wars </h1>
 A simple game designed to be played over a local network.<br>
-There can be either 2 or 4 players. Accordingly, there are 2 options in the game: a 1vs1 game or a 2vs2 game
-<br>
-<br>
-The game process:
+There can be either 2 or 4 players. Accordingly, there are 2 options in the game: a 1vs1 game or a 2vs2 game<br>
 The goal of the game is to win (=<br>
+<br>
+<br>
+
+The game process:
+
 Aspects of the game:<br>
 <ul>
 <li>
