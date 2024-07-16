@@ -24,7 +24,8 @@ Units:<br>
 Each unit has its own characteristics, such as:<br>
 <ul>
 <li>movement speed</li>
-<li>attack speed;<li>attack power</li>
+<li>attack speed
+<li>attack power</li>
 <li>HP</li>
 <li>price</li>
 <li>round income</li>
