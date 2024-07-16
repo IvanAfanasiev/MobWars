@@ -9,6 +9,7 @@ The game process:
 
 Aspects of the game:<br>
 <ul>
+
 <li>
 Coins:
 Each player has coins.<br>Coins can be spent on defense (cannon and wall) and attack (send your units).<br>
@@ -17,9 +18,8 @@ It is worth keeping an eye not only on the current number of coins, but also on 
 When sending a unit, the income increases.<br>
 Each round, an amount of coins equal to the income will be added to the player's account.
 </li>
-<br>
-<li>
 
+<li>
 Units:<br>
 Each unit has its own characteristics, such as:<br>
 <ul>
@@ -27,7 +27,7 @@ Each unit has its own characteristics, such as:<br>
 <li>attack speed;<li>attack power</li>
 <li>HP</li>
 <li>price</li>
-<li>round income</li>.
+<li>round income</li>
 </ul>
 There is also one flying unit that cannot be killed with a cannon.
 </li>
